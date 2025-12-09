@@ -59,6 +59,16 @@ predictions.csv
    - sigma
    - fluor
 
+## Screenshots
+
+### Temperature Field
+![Temperature Screenshot](screenshots/temp_visualization.png)
+
+### Sigma-Theta Field
+![Sigma-Theta Screenshot](screenshots/sigmatheta_visualization.png)
+
+### Fluorescence Field
+![Fluorescence Screenshot](screenshots/fluor_visualization.png)
 
 ## Data Attribution
 This project uses CalCOFI (California Cooperative Oceanic Fisheries Investigations) oceanographic data.  
